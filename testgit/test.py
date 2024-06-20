@@ -23,5 +23,3 @@ num2 = float(input("두 번째 숫자를 입력하세요: "))
 # 각각의 연산을 수행하고 결과를 출력합니다.
 print("더하기 결과:", add(num1, num2))
 print("빼기 결과:", subtract(num1, num2))
-print("곱하기 결과:", multiply(num1, num2))
-print("나누기 결과:", multiply(num1, num2))
